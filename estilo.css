@@ -1,0 +1,14 @@
+#cabecalho {
+    height: 150px;
+    background-color: aquamarine;
+}
+
+#conteudo {
+    height: 150px;
+    background-color: blueviolet;
+}
+
+.rodape {
+    height: 200px;
+    background-color: chocolate;
+}
